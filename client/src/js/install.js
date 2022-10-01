@@ -21,7 +21,6 @@ butInstall.addEventListener('click', async () => {
 
   butInstall.classList.toggle('hidden', true);
   butInstall.setAttribute('disabled', true);
-  butInstall.textContent = 'Installed!';
 });
 
 // TODO: Add an handler for the `appinstalled` event
