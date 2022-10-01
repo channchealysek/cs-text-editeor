@@ -1,4 +1,4 @@
-# cs-text-editeor
+# cs-text-editor
 
 ## Table of Contents
 1. [Description](#Description)
